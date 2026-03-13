@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenue&fontSize=80&animation=fadeIn" alt="Bannière de Bienvenue" />
+</p>
+
 Salut ! Je suis Manda Raveloson
 
 ###  Développeur Fullstack
