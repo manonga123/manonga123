@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Raveloson%20Manda&fontSize=60&animation=bouncing&fontColor=ffffff" alt="Bannière Géométrique" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=121212,ff0055&height=200&section=header&text=BIENVENUE&fontSize=80&animation=glitch&fontColor=ffffff" alt="Bannière Néon" />
 </p>
 Salut ! Je suis Manda Raveloson
 
